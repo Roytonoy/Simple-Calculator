@@ -1,0 +1,11 @@
+.carousel-item-padding{
+    padding: 100px 250px;
+}
+.add-section{
+    /*background-color: #0f6674;*/
+    background: url("../image/img1.png");
+    background-attachment: fixed;
+    background-size: cover;
+    width: 2450px;
+
+}
